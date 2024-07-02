@@ -14,10 +14,10 @@ Sou um entusiasta da tecnologia com experiência em suporte técnico. Tenho paix
 
 ### Projeto(s) Django
 - **[Pokemon]**: Site feito utilizando a PokeApi para pesquisas rápidas sobre informações de pokemons.
-  - Link para o repositório: (https://github.com/seu_usuario/nome_do_projeto_1)](https://github.com/Alfiloko/Pokemon)
+  - Link para o repositório: (https://github.com/Alfiloko/Pokemon)
 ### Projeto(s) ReactNative
 - **[Aplicativo]**: Aplicativo feito para um trabalho da faculdade, feito para listagem de itens.
-  - Link para o repositório: (https://github.com/seu_usuario/nome_do_projeto_1)](https://github.com/Alfiloko/Trabalho-Segunda-Feira)
+  - Link para o repositório: (https://github.com/Alfiloko/Trabalho-Segunda-Feira)
 
 ### Educação
 - **[Centro Universitário UniSantaCruz]** - [Gestão da Tecnologia da Informação]
